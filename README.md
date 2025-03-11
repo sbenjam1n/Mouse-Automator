@@ -1,4 +1,9 @@
 # Mouse Recorder
+  
+ /\_/\°ღ          .☾.  
+( •ω• )   
+ ︶ ⊃🖤⊂      
+/   づ♡    ฅ^•ﻌ•^ฅ  ฅ^•ﻌ•^ฅ  ฅ^•ﻌ•^ฅ
 
 A powerful and flexible utility for recording and playing back mouse movements, clicks, and keyboard actions to automate repetitive tasks.
 
