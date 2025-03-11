@@ -86,7 +86,7 @@ python mouseRecorder.py --load my_recordings.pkl -b 2
 
 ## How It Works
 
-The script uses `pynput` to capture mouse and keyboard events, storing them with precise timing information. During playback, `pyautogui` is used to replicate these actions with the same timing.
+The script uses `pynput` to capture mouse and keyboard events. `pyautogui` is used to replicate these actions with the same timing during playback.
 
 
 MIT License
