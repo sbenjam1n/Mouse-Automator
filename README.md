@@ -8,8 +8,8 @@ A powerful and flexible utility for recording and playing back mouse movements, 
 
 - Record and playback mouse movements with precise timing
 - Capture and replay mouse clicks and keyboard inputs
-- Store multiple recording sequences in separate buffers
-- Adjust playback speed on the fly
+- Store multiple recorded sequences in separate buffers
+- Adjust playback speed
 - Loop playback functionality
 - Save and load recording buffers from files
 
