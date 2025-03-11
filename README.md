@@ -1,4 +1,4 @@
-# Mouse Recorder
+# Mouse Automator
   
 ฅ^•ﻌ•^ฅ  ฅ^•ﻌ•^ฅ  ฅ^•ﻌ•^ฅ
 
