@@ -2,11 +2,11 @@
   
 ฅ^•ﻌ•^ฅ  ฅ^•ﻌ•^ฅ  ฅ^•ﻌ•^ฅ
 
-A powerful and flexible utility for recording and playing back mouse movements, clicks, and keyboard actions to automate repetitive tasks.
+A powerful, flexible utility for playback and recording of mouse movements, clicks, and keyboard actions to quickly automate repetitive tasks.
 
 ## Features
 
-- Record and playback mouse movements with precise timing
+- Record and playback mouse movements
 - Capture and replay mouse clicks and keyboard inputs
 - Store multiple recorded sequences in separate buffers
 - Adjust playback speed
@@ -87,4 +87,7 @@ python mouseRecorder.py --load my_recordings.pkl -b 2
 ## How It Works
 
 The script uses `pynput` to capture mouse and keyboard events, storing them with precise timing information. During playback, `pyautogui` is used to replicate these actions with the same timing.
+
+License
+MIT License
 
