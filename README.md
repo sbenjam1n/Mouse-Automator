@@ -6,7 +6,6 @@ A powerful, flexible utility for playback and recording of mouse movements, clic
 
 ## Features
 
-- Record and playback mouse movements
 - Capture and replay mouse clicks and keyboard inputs
 - Store multiple recorded sequences in separate buffers
 - Adjust playback speed
